@@ -1,0 +1,5 @@
+numpy
+pandas
+seaborn
+# -e . automatically trigger seetup.py file
+-e . 
