@@ -1,0 +1,2 @@
+[2025-06-22 10:57:23,214] 23 root - INFO - Divide by zero
+[2025-06-22 10:58:17,835] 23 root - INFO - Not defined
