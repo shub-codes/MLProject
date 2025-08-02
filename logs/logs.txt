@@ -1,2 +1,7 @@
 [2025-06-22 10:57:23,214] 23 root - INFO - Divide by zero
 [2025-06-22 10:58:17,835] 23 root - INFO - Not defined
+[2025-08-02 11:42:47,991] 16 root - INFO - Logger test message
+[2025-08-02 11:55:17,842] 160 numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+[2025-08-02 11:55:20,417] 25 __main__ - INFO - entering data ingestion method/component
+[2025-08-02 11:55:20,432] 29 __main__ - INFO - reading dataset at dataframe
+[2025-08-02 11:55:20,454] 42 __main__ - INFO - Data ingestion complete
