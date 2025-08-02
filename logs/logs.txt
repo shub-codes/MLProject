@@ -5,3 +5,141 @@
 [2025-08-02 11:55:20,417] 25 __main__ - INFO - entering data ingestion method/component
 [2025-08-02 11:55:20,432] 29 __main__ - INFO - reading dataset at dataframe
 [2025-08-02 11:55:20,454] 42 __main__ - INFO - Data ingestion complete
+[2025-08-02 16:04:19,887] 27 root - INFO - entering data ingestion method/component
+[2025-08-02 16:04:19,973] 31 root - INFO - reading dataset at dataframe
+[2025-08-02 16:04:20,010] 44 root - INFO - Data ingestion complete
+[2025-08-02 16:07:49,186] 27 root - INFO - entering data ingestion method/component
+[2025-08-02 16:07:49,212] 31 root - INFO - reading dataset at dataframe
+[2025-08-02 16:07:49,241] 44 root - INFO - Data ingestion complete
+[2025-08-02 16:08:57,467] 27 root - INFO - entering data ingestion method/component
+[2025-08-02 16:08:57,495] 31 root - INFO - reading dataset at dataframe
+[2025-08-02 16:08:57,530] 44 root - INFO - Data ingestion complete
+[2025-08-02 16:10:41,943] 27 root - INFO - entering data ingestion method/component
+[2025-08-02 16:10:41,969] 31 root - INFO - reading dataset at dataframe
+[2025-08-02 16:10:41,999] 44 root - INFO - Data ingestion complete
+[2025-08-02 16:14:01,055] 27 root - INFO - entering data ingestion method/component
+[2025-08-02 16:14:01,080] 31 root - INFO - reading dataset at dataframe
+[2025-08-02 16:14:01,141] 44 root - INFO - Data ingestion complete
+[2025-08-02 16:14:01,412] 84 root - INFO - Train and test data read intoo data transformer
+[2025-08-02 16:14:01,412] 85 root - INFO - Obtaining pre processing object
+[2025-08-02 16:14:01,412] 57 root - INFO - Numerical Columns preprocessing completed
+[2025-08-02 16:14:01,413] 66 root - INFO - Categiorical Columns preprocessing completed
+[2025-08-02 16:14:23,411] 27 root - INFO - entering data ingestion method/component
+[2025-08-02 16:14:23,428] 31 root - INFO - reading dataset at dataframe
+[2025-08-02 16:14:23,449] 44 root - INFO - Data ingestion complete
+[2025-08-02 16:14:23,487] 84 root - INFO - Train and test data read intoo data transformer
+[2025-08-02 16:14:23,487] 85 root - INFO - Obtaining pre processing object
+[2025-08-02 16:14:23,487] 57 root - INFO - Numerical Columns preprocessing completed
+[2025-08-02 16:14:23,488] 66 root - INFO - Categiorical Columns preprocessing completed
+[2025-08-02 16:17:25,089] 27 root - INFO - entering data ingestion method/component
+[2025-08-02 16:17:25,115] 31 root - INFO - reading dataset at dataframe
+[2025-08-02 16:17:25,146] 44 root - INFO - Data ingestion complete
+[2025-08-02 16:17:25,209] 84 root - INFO - Train and test data read intoo data transformer
+[2025-08-02 16:17:25,210] 85 root - INFO - Obtaining pre processing object
+[2025-08-02 16:17:25,210] 57 root - INFO - Numerical Columns preprocessing completed
+[2025-08-02 16:17:25,210] 66 root - INFO - Categiorical Columns preprocessing completed
+[2025-08-02 16:17:25,210] 67 root - INFO - categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_prepration_course']
+[2025-08-02 16:17:25,210] 68 root - INFO - numerical columns: ['writing_score', 'reading_score']
+[2025-08-02 16:17:25,218] 93 root - INFO - applying preprocessing object on training and testing dataframe
+[2025-08-02 16:22:09,066] 27 root - INFO - entering data ingestion method/component
+[2025-08-02 16:22:09,092] 31 root - INFO - reading dataset at dataframe
+[2025-08-02 16:22:09,123] 44 root - INFO - Data ingestion complete
+[2025-08-02 16:22:09,165] 84 root - INFO - Train and test data read intoo data transformer
+[2025-08-02 16:22:09,165] 85 root - INFO - Obtaining pre processing object
+[2025-08-02 16:22:09,165] 57 root - INFO - Numerical Columns preprocessing completed
+[2025-08-02 16:22:09,165] 66 root - INFO - Categiorical Columns preprocessing completed
+[2025-08-02 16:22:09,165] 67 root - INFO - categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[2025-08-02 16:22:09,166] 68 root - INFO - numerical columns: ['writing_score', 'reading_score']
+[2025-08-02 16:22:09,174] 93 root - INFO - applying preprocessing object on training and testing dataframe
+[2025-08-02 16:27:09,012] 27 root - INFO - entering data ingestion method/component
+[2025-08-02 16:27:09,043] 31 root - INFO - reading dataset at dataframe
+[2025-08-02 16:27:09,077] 44 root - INFO - Data ingestion complete
+[2025-08-02 16:27:09,147] 84 root - INFO - Train and test data read intoo data transformer
+[2025-08-02 16:27:09,147] 85 root - INFO - Obtaining pre processing object
+[2025-08-02 16:27:09,148] 57 root - INFO - Numerical Columns preprocessing completed
+[2025-08-02 16:27:09,148] 66 root - INFO - Categiorical Columns preprocessing completed
+[2025-08-02 16:27:09,148] 67 root - INFO - categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[2025-08-02 16:27:09,148] 68 root - INFO - numerical columns: ['writing_score', 'reading_score']
+[2025-08-02 16:27:09,157] 93 root - INFO - applying preprocessing object on training and testing dataframe
+[2025-08-02 16:27:09,249] 99 root - INFO - saving preprocessed object
+[2025-08-02 16:28:13,571] 27 root - INFO - entering data ingestion method/component
+[2025-08-02 16:28:13,597] 31 root - INFO - reading dataset at dataframe
+[2025-08-02 16:28:13,629] 44 root - INFO - Data ingestion complete
+[2025-08-02 16:28:13,668] 84 root - INFO - Train and test data read intoo data transformer
+[2025-08-02 16:28:13,668] 85 root - INFO - Obtaining pre processing object
+[2025-08-02 16:28:13,668] 57 root - INFO - Numerical Columns preprocessing completed
+[2025-08-02 16:28:13,668] 66 root - INFO - Categiorical Columns preprocessing completed
+[2025-08-02 16:28:13,668] 67 root - INFO - categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[2025-08-02 16:28:13,668] 68 root - INFO - numerical columns: ['writing_score', 'reading_score']
+[2025-08-02 16:28:13,674] 93 root - INFO - applying preprocessing object on training and testing dataframe
+[2025-08-02 16:28:13,716] 99 root - INFO - saving preprocessed object
+[2025-08-03 00:51:15,440] 29 root - INFO - entering data ingestion method/component
+[2025-08-03 00:51:15,544] 33 root - INFO - reading dataset at dataframe
+[2025-08-03 00:51:15,582] 46 root - INFO - Data ingestion complete
+[2025-08-03 00:51:15,675] 84 root - INFO - Train and test data read intoo data transformer
+[2025-08-03 00:51:15,675] 85 root - INFO - Obtaining pre processing object
+[2025-08-03 00:51:15,675] 57 root - INFO - Numerical Columns preprocessing completed
+[2025-08-03 00:51:15,676] 66 root - INFO - Categiorical Columns preprocessing completed
+[2025-08-03 00:51:15,676] 67 root - INFO - categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[2025-08-03 00:51:15,676] 68 root - INFO - numerical columns: ['writing_score', 'reading_score']
+[2025-08-03 00:51:15,683] 93 root - INFO - applying preprocessing object on training and testing dataframe
+[2025-08-03 00:51:15,739] 99 root - INFO - saving preprocessed object
+[2025-08-03 00:52:38,107] 29 root - INFO - entering data ingestion method/component
+[2025-08-03 00:52:38,143] 33 root - INFO - reading dataset at dataframe
+[2025-08-03 00:52:38,181] 46 root - INFO - Data ingestion complete
+[2025-08-03 00:52:38,245] 84 root - INFO - Train and test data read intoo data transformer
+[2025-08-03 00:52:38,245] 85 root - INFO - Obtaining pre processing object
+[2025-08-03 00:52:38,246] 57 root - INFO - Numerical Columns preprocessing completed
+[2025-08-03 00:52:38,246] 66 root - INFO - Categiorical Columns preprocessing completed
+[2025-08-03 00:52:38,246] 67 root - INFO - categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[2025-08-03 00:52:38,246] 68 root - INFO - numerical columns: ['writing_score', 'reading_score']
+[2025-08-03 00:52:38,253] 93 root - INFO - applying preprocessing object on training and testing dataframe
+[2025-08-03 00:52:38,292] 99 root - INFO - saving preprocessed object
+[2025-08-03 00:53:11,553] 29 root - INFO - entering data ingestion method/component
+[2025-08-03 00:53:11,570] 33 root - INFO - reading dataset at dataframe
+[2025-08-03 00:53:11,594] 46 root - INFO - Data ingestion complete
+[2025-08-03 00:53:11,659] 84 root - INFO - Train and test data read intoo data transformer
+[2025-08-03 00:53:11,660] 85 root - INFO - Obtaining pre processing object
+[2025-08-03 00:53:11,660] 57 root - INFO - Numerical Columns preprocessing completed
+[2025-08-03 00:53:11,660] 66 root - INFO - Categiorical Columns preprocessing completed
+[2025-08-03 00:53:11,660] 67 root - INFO - categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[2025-08-03 00:53:11,660] 68 root - INFO - numerical columns: ['writing_score', 'reading_score']
+[2025-08-03 00:53:11,663] 93 root - INFO - applying preprocessing object on training and testing dataframe
+[2025-08-03 00:53:11,708] 99 root - INFO - saving preprocessed object
+[2025-08-03 00:53:45,871] 29 root - INFO - entering data ingestion method/component
+[2025-08-03 00:53:45,885] 33 root - INFO - reading dataset at dataframe
+[2025-08-03 00:53:45,906] 46 root - INFO - Data ingestion complete
+[2025-08-03 00:53:45,947] 84 root - INFO - Train and test data read intoo data transformer
+[2025-08-03 00:53:45,947] 85 root - INFO - Obtaining pre processing object
+[2025-08-03 00:53:45,947] 57 root - INFO - Numerical Columns preprocessing completed
+[2025-08-03 00:53:45,947] 66 root - INFO - Categiorical Columns preprocessing completed
+[2025-08-03 00:53:45,947] 67 root - INFO - categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[2025-08-03 00:53:45,948] 68 root - INFO - numerical columns: ['writing_score', 'reading_score']
+[2025-08-03 00:53:45,950] 93 root - INFO - applying preprocessing object on training and testing dataframe
+[2025-08-03 00:53:45,986] 99 root - INFO - saving preprocessed object
+[2025-08-03 00:53:45,996] 29 root - INFO - split train and test info
+[2025-08-03 00:55:54,939] 29 root - INFO - entering data ingestion method/component
+[2025-08-03 00:55:54,972] 33 root - INFO - reading dataset at dataframe
+[2025-08-03 00:55:55,008] 46 root - INFO - Data ingestion complete
+[2025-08-03 00:55:55,087] 84 root - INFO - Train and test data read intoo data transformer
+[2025-08-03 00:55:55,087] 85 root - INFO - Obtaining pre processing object
+[2025-08-03 00:55:55,088] 57 root - INFO - Numerical Columns preprocessing completed
+[2025-08-03 00:55:55,088] 66 root - INFO - Categiorical Columns preprocessing completed
+[2025-08-03 00:55:55,088] 67 root - INFO - categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[2025-08-03 00:55:55,088] 68 root - INFO - numerical columns: ['writing_score', 'reading_score']
+[2025-08-03 00:55:55,097] 93 root - INFO - applying preprocessing object on training and testing dataframe
+[2025-08-03 00:55:55,141] 99 root - INFO - saving preprocessed object
+[2025-08-03 00:55:55,154] 29 root - INFO - split train and test info
+[2025-08-03 00:59:07,197] 29 root - INFO - entering data ingestion method/component
+[2025-08-03 00:59:07,226] 33 root - INFO - reading dataset at dataframe
+[2025-08-03 00:59:07,264] 46 root - INFO - Data ingestion complete
+[2025-08-03 00:59:07,395] 84 root - INFO - Train and test data read intoo data transformer
+[2025-08-03 00:59:07,396] 85 root - INFO - Obtaining pre processing object
+[2025-08-03 00:59:07,396] 57 root - INFO - Numerical Columns preprocessing completed
+[2025-08-03 00:59:07,396] 66 root - INFO - Categiorical Columns preprocessing completed
+[2025-08-03 00:59:07,396] 67 root - INFO - categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[2025-08-03 00:59:07,397] 68 root - INFO - numerical columns: ['writing_score', 'reading_score']
+[2025-08-03 00:59:07,406] 93 root - INFO - applying preprocessing object on training and testing dataframe
+[2025-08-03 00:59:07,450] 99 root - INFO - saving preprocessed object
+[2025-08-03 00:59:07,459] 29 root - INFO - split train and test info
+[2025-08-03 00:59:13,579] 50 root - INFO - best model found Linear Regression with score 85.38273553131044 %
